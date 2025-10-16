@@ -1,5 +1,4 @@
-package Controller;
-import Model.Student;
+package PartC;
 import java.sql.*;
 import java.util.*;
 

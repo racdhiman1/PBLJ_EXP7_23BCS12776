@@ -1,4 +1,4 @@
-package Model;
+package PartC;
 
 public class Student {
     private int studentID;

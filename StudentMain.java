@@ -1,6 +1,4 @@
-package View;
-import Model.Student;
-import Controller.StudentDAO;
+package PartC;
 import java.util.*;
 
 public class StudentMain {
